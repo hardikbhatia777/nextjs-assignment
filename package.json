@@ -23,5 +23,8 @@
     "postcss": "latest",
     "tailwindcss": "latest",
     "typescript": "latest"
+  },
+  "volta": {
+    "node": "20.8.0"
   }
 }
